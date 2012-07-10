@@ -18,5 +18,11 @@ hw.l3cachesize = 3145728```
 So L1 cache is 32K, L2 256K and L3 3M
 
 
+#compiling the C code
+
+```gcc -Wall -o cache_size cache_size.c -lm```
+and 
+```gcc -Wall -o false_sharing false_sharing.c -lm```
+
 
 
