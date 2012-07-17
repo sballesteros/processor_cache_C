@@ -3,7 +3,7 @@ processor_cache_C
 
 Reproduce some example of Gallery of Processor Cache Effects in C (see http://igoro.com/archive/gallery-of-processor-cache-effects/)
 
-Note: On a OsX one can get the cache sizes by running:
+Note: On an OsX system, one can get the cache sizes by running:
 
 ```sysctl -a | grep cache```
 
