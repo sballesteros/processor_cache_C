@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.8)
+project (PROCESSOR_CACHING)
+set (PROCESSOR_CACHING_VERSION_MAJOR 1)
+set (PROCESSOR_CACHING_VERSION_MINOR 0)
+add_subdirectory(src)
